@@ -1,0 +1,1 @@
+# Recognition-of-Emotions-of-a-Speech-with-Librosa
